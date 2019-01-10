@@ -1,0 +1,5 @@
+C:\Cursos\DesignPatterns\Turma\Lgroup.DesignPatterns\src\Gof\Criacionais\ReflectionFactory\bin\Debug\ReflectionFactory.exe.config
+C:\Cursos\DesignPatterns\Turma\Lgroup.DesignPatterns\src\Gof\Criacionais\ReflectionFactory\bin\Debug\ReflectionFactory.exe
+C:\Cursos\DesignPatterns\Turma\Lgroup.DesignPatterns\src\Gof\Criacionais\ReflectionFactory\bin\Debug\ReflectionFactory.pdb
+C:\Cursos\DesignPatterns\Turma\Lgroup.DesignPatterns\src\Gof\Criacionais\ReflectionFactory\obj\Debug\ReflectionFactory.exe
+C:\Cursos\DesignPatterns\Turma\Lgroup.DesignPatterns\src\Gof\Criacionais\ReflectionFactory\obj\Debug\ReflectionFactory.pdb

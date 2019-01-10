@@ -1,0 +1,5 @@
+C:\Cursos\DesignPatterns\Turma\Lgroup.DesignPatterns\src\Gof\Criacionais\FactoryMethod\bin\Debug\FactoryMethod.exe.config
+C:\Cursos\DesignPatterns\Turma\Lgroup.DesignPatterns\src\Gof\Criacionais\FactoryMethod\bin\Debug\FactoryMethod.exe
+C:\Cursos\DesignPatterns\Turma\Lgroup.DesignPatterns\src\Gof\Criacionais\FactoryMethod\bin\Debug\FactoryMethod.pdb
+C:\Cursos\DesignPatterns\Turma\Lgroup.DesignPatterns\src\Gof\Criacionais\FactoryMethod\obj\Debug\FactoryMethod.exe
+C:\Cursos\DesignPatterns\Turma\Lgroup.DesignPatterns\src\Gof\Criacionais\FactoryMethod\obj\Debug\FactoryMethod.pdb

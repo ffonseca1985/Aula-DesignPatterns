@@ -1,0 +1,6 @@
+C:\Cursos\DesignPatterns\Turma\Lgroup.DesignPatterns\src\SOLID\OCP\bin\Debug\OCP.exe.config
+C:\Cursos\DesignPatterns\Turma\Lgroup.DesignPatterns\src\SOLID\OCP\bin\Debug\OCP.exe
+C:\Cursos\DesignPatterns\Turma\Lgroup.DesignPatterns\src\SOLID\OCP\bin\Debug\OCP.pdb
+C:\Cursos\DesignPatterns\Turma\Lgroup.DesignPatterns\src\SOLID\OCP\obj\Debug\OCP.exe
+C:\Cursos\DesignPatterns\Turma\Lgroup.DesignPatterns\src\SOLID\OCP\obj\Debug\OCP.pdb
+C:\Cursos\DesignPatterns\Turma\Lgroup.DesignPatterns\src\SOLID\OCP\obj\Debug\OCP.csprojResolveAssemblyReference.cache

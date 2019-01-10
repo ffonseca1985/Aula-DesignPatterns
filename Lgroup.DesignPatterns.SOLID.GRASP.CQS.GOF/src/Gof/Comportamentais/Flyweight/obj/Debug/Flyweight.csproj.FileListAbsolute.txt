@@ -1,0 +1,9 @@
+C:\Cursos\DesignPatterns\Turma\Lgroup.DesignPatterns\src\Gof\Comportamentais\Flyweight\bin\Debug\Flyweight.exe.config
+C:\Cursos\DesignPatterns\Turma\Lgroup.DesignPatterns\src\Gof\Comportamentais\Flyweight\bin\Debug\Flyweight.exe
+C:\Cursos\DesignPatterns\Turma\Lgroup.DesignPatterns\src\Gof\Comportamentais\Flyweight\bin\Debug\Flyweight.pdb
+C:\Cursos\DesignPatterns\Turma\Lgroup.DesignPatterns\src\Gof\Comportamentais\Flyweight\obj\Debug\Flyweight.csprojResolveAssemblyReference.cache
+C:\Cursos\DesignPatterns\Turma\Lgroup.DesignPatterns\src\Gof\Comportamentais\Flyweight\obj\Debug\Flyweight.exe
+C:\Cursos\DesignPatterns\Turma\Lgroup.DesignPatterns\src\Gof\Comportamentais\Flyweight\obj\Debug\Flyweight.pdb
+C:\Cursos\DesignPatterns\Turma\Lgroup.DesignPatterns.SOLID.GRASP.CQS.GOF\src\Gof\Comportamentais\Flyweight\bin\Debug\Flyweight.exe.config
+C:\Cursos\DesignPatterns\Turma\Lgroup.DesignPatterns.SOLID.GRASP.CQS.GOF\src\Gof\Comportamentais\Flyweight\obj\Debug\Flyweight.exe
+C:\Cursos\DesignPatterns\Turma\Lgroup.DesignPatterns.SOLID.GRASP.CQS.GOF\src\Gof\Comportamentais\Flyweight\obj\Debug\Flyweight.pdb

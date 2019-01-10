@@ -1,0 +1,5 @@
+C:\Cursos\DesignPatterns\Turma\Lgroup.DesignPatterns\src\Gof\Criacionais\Singleton\bin\Debug\Singleton.exe.config
+C:\Cursos\DesignPatterns\Turma\Lgroup.DesignPatterns\src\Gof\Criacionais\Singleton\bin\Debug\Singleton.exe
+C:\Cursos\DesignPatterns\Turma\Lgroup.DesignPatterns\src\Gof\Criacionais\Singleton\bin\Debug\Singleton.pdb
+C:\Cursos\DesignPatterns\Turma\Lgroup.DesignPatterns\src\Gof\Criacionais\Singleton\obj\Debug\Singleton.exe
+C:\Cursos\DesignPatterns\Turma\Lgroup.DesignPatterns\src\Gof\Criacionais\Singleton\obj\Debug\Singleton.pdb

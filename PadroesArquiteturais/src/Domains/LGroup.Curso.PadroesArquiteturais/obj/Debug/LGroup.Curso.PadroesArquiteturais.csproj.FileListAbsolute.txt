@@ -1,0 +1,12 @@
+C:\Cursos\DesignPatterns\Turma\PadroesArquiteturais\src\Domains\LGroup.Curso.PadroesArquiteturais\bin\Debug\LGroup.Curso.PadroesArquiteturais.dll
+C:\Cursos\DesignPatterns\Turma\PadroesArquiteturais\src\Domains\LGroup.Curso.PadroesArquiteturais\bin\Debug\LGroup.Curso.PadroesArquiteturais.pdb
+C:\Cursos\DesignPatterns\Turma\PadroesArquiteturais\src\Domains\LGroup.Curso.PadroesArquiteturais\bin\Debug\Xamarin.Forms.Core.dll
+C:\Cursos\DesignPatterns\Turma\PadroesArquiteturais\src\Domains\LGroup.Curso.PadroesArquiteturais\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Cursos\DesignPatterns\Turma\PadroesArquiteturais\src\Domains\LGroup.Curso.PadroesArquiteturais\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Cursos\DesignPatterns\Turma\PadroesArquiteturais\src\Domains\LGroup.Curso.PadroesArquiteturais\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Cursos\DesignPatterns\Turma\PadroesArquiteturais\src\Domains\LGroup.Curso.PadroesArquiteturais\bin\Debug\Xamarin.Forms.Core.xml
+C:\Cursos\DesignPatterns\Turma\PadroesArquiteturais\src\Domains\LGroup.Curso.PadroesArquiteturais\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\Cursos\DesignPatterns\Turma\PadroesArquiteturais\src\Domains\LGroup.Curso.PadroesArquiteturais\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Cursos\DesignPatterns\Turma\PadroesArquiteturais\src\Domains\LGroup.Curso.PadroesArquiteturais\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Cursos\DesignPatterns\Turma\PadroesArquiteturais\src\Domains\LGroup.Curso.PadroesArquiteturais\obj\Debug\LGroup.Curso.PadroesArquiteturais.dll
+C:\Cursos\DesignPatterns\Turma\PadroesArquiteturais\src\Domains\LGroup.Curso.PadroesArquiteturais\obj\Debug\LGroup.Curso.PadroesArquiteturais.pdb

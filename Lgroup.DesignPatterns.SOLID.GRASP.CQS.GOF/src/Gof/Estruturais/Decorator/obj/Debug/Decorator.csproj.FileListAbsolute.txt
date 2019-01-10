@@ -1,0 +1,5 @@
+C:\Cursos\DesignPatterns\Turma\Lgroup.DesignPatterns\src\Gof\Estruturais\Decorator\bin\Debug\Decorator.exe.config
+C:\Cursos\DesignPatterns\Turma\Lgroup.DesignPatterns\src\Gof\Estruturais\Decorator\bin\Debug\Decorator.exe
+C:\Cursos\DesignPatterns\Turma\Lgroup.DesignPatterns\src\Gof\Estruturais\Decorator\bin\Debug\Decorator.pdb
+C:\Cursos\DesignPatterns\Turma\Lgroup.DesignPatterns\src\Gof\Estruturais\Decorator\obj\Debug\Decorator.exe
+C:\Cursos\DesignPatterns\Turma\Lgroup.DesignPatterns\src\Gof\Estruturais\Decorator\obj\Debug\Decorator.pdb

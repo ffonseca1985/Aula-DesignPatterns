@@ -1,0 +1,6 @@
+C:\Cursos\DesignPatterns\Turma\Lgroup.DesignPatterns\src\Grasp\Creator\bin\Debug\Creator.exe.config
+C:\Cursos\DesignPatterns\Turma\Lgroup.DesignPatterns\src\Grasp\Creator\bin\Debug\Creator.exe
+C:\Cursos\DesignPatterns\Turma\Lgroup.DesignPatterns\src\Grasp\Creator\bin\Debug\Creator.pdb
+C:\Cursos\DesignPatterns\Turma\Lgroup.DesignPatterns\src\Grasp\Creator\obj\Debug\Creator.exe
+C:\Cursos\DesignPatterns\Turma\Lgroup.DesignPatterns\src\Grasp\Creator\obj\Debug\Creator.pdb
+C:\Cursos\DesignPatterns\Turma\Lgroup.DesignPatterns\src\Grasp\Creator\obj\Debug\Creator.csprojResolveAssemblyReference.cache

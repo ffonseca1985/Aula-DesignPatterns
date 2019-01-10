@@ -1,0 +1,5 @@
+C:\Cursos\DesignPatterns\Turma\Lgroup.DesignPatterns\src\SOLID\LSP\bin\Debug\LSP.exe.config
+C:\Cursos\DesignPatterns\Turma\Lgroup.DesignPatterns\src\SOLID\LSP\bin\Debug\LSP.exe
+C:\Cursos\DesignPatterns\Turma\Lgroup.DesignPatterns\src\SOLID\LSP\bin\Debug\LSP.pdb
+C:\Cursos\DesignPatterns\Turma\Lgroup.DesignPatterns\src\SOLID\LSP\obj\Debug\LSP.exe
+C:\Cursos\DesignPatterns\Turma\Lgroup.DesignPatterns\src\SOLID\LSP\obj\Debug\LSP.pdb

@@ -1,0 +1,11 @@
+C:\Cursos\DesignPatterns\Turma\Lgroup.DesignPatterns-aula-4.0\MVP\WindowsForms\bin\Debug\WindowsForms.exe.config
+C:\Cursos\DesignPatterns\Turma\Lgroup.DesignPatterns-aula-4.0\MVP\WindowsForms\bin\Debug\WindowsForms.exe
+C:\Cursos\DesignPatterns\Turma\Lgroup.DesignPatterns-aula-4.0\MVP\WindowsForms\bin\Debug\WindowsForms.pdb
+C:\Cursos\DesignPatterns\Turma\Lgroup.DesignPatterns-aula-4.0\MVP\WindowsForms\bin\Debug\ModelViewPresenter.dll
+C:\Cursos\DesignPatterns\Turma\Lgroup.DesignPatterns-aula-4.0\MVP\WindowsForms\bin\Debug\ModelViewPresenter.pdb
+C:\Cursos\DesignPatterns\Turma\Lgroup.DesignPatterns-aula-4.0\MVP\WindowsForms\obj\Debug\WindowsForms.csprojResolveAssemblyReference.cache
+C:\Cursos\DesignPatterns\Turma\Lgroup.DesignPatterns-aula-4.0\MVP\WindowsForms\obj\Debug\WindowsForms.Form1.resources
+C:\Cursos\DesignPatterns\Turma\Lgroup.DesignPatterns-aula-4.0\MVP\WindowsForms\obj\Debug\WindowsForms.Properties.Resources.resources
+C:\Cursos\DesignPatterns\Turma\Lgroup.DesignPatterns-aula-4.0\MVP\WindowsForms\obj\Debug\WindowsForms.csproj.GenerateResource.Cache
+C:\Cursos\DesignPatterns\Turma\Lgroup.DesignPatterns-aula-4.0\MVP\WindowsForms\obj\Debug\WindowsForms.exe
+C:\Cursos\DesignPatterns\Turma\Lgroup.DesignPatterns-aula-4.0\MVP\WindowsForms\obj\Debug\WindowsForms.pdb

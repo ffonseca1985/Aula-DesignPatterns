@@ -1,0 +1,5 @@
+C:\Cursos\DesignPatterns\Turma\Lgroup.DesignPatterns\src\Gof\Estruturais\Adapter\bin\Debug\Adapter.exe.config
+C:\Cursos\DesignPatterns\Turma\Lgroup.DesignPatterns\src\Gof\Estruturais\Adapter\bin\Debug\Adapter.exe
+C:\Cursos\DesignPatterns\Turma\Lgroup.DesignPatterns\src\Gof\Estruturais\Adapter\bin\Debug\Adapter.pdb
+C:\Cursos\DesignPatterns\Turma\Lgroup.DesignPatterns\src\Gof\Estruturais\Adapter\obj\Debug\Adapter.exe
+C:\Cursos\DesignPatterns\Turma\Lgroup.DesignPatterns\src\Gof\Estruturais\Adapter\obj\Debug\Adapter.pdb

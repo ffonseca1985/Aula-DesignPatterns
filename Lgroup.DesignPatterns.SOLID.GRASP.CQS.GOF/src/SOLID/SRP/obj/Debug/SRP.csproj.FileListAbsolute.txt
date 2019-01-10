@@ -1,0 +1,5 @@
+C:\Cursos\DesignPatterns\Turma\Lgroup.DesignPatterns\src\SOLID\SRP\bin\Debug\SRP.exe.config
+C:\Cursos\DesignPatterns\Turma\Lgroup.DesignPatterns\src\SOLID\SRP\bin\Debug\SRP.exe
+C:\Cursos\DesignPatterns\Turma\Lgroup.DesignPatterns\src\SOLID\SRP\bin\Debug\SRP.pdb
+C:\Cursos\DesignPatterns\Turma\Lgroup.DesignPatterns\src\SOLID\SRP\obj\Debug\SRP.exe
+C:\Cursos\DesignPatterns\Turma\Lgroup.DesignPatterns\src\SOLID\SRP\obj\Debug\SRP.pdb

@@ -1,0 +1,5 @@
+C:\Cursos\DesignPatterns\Turma\Lgroup.DesignPatterns\src\SOLID\ISP\bin\Debug\ISP.exe.config
+C:\Cursos\DesignPatterns\Turma\Lgroup.DesignPatterns\src\SOLID\ISP\bin\Debug\ISP.exe
+C:\Cursos\DesignPatterns\Turma\Lgroup.DesignPatterns\src\SOLID\ISP\bin\Debug\ISP.pdb
+C:\Cursos\DesignPatterns\Turma\Lgroup.DesignPatterns\src\SOLID\ISP\obj\Debug\ISP.exe
+C:\Cursos\DesignPatterns\Turma\Lgroup.DesignPatterns\src\SOLID\ISP\obj\Debug\ISP.pdb

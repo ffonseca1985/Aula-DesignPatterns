@@ -1,0 +1,5 @@
+C:\Cursos\DesignPatterns\Turma\Lgroup.DesignPatterns\src\Grasp\HighCohesion\bin\Debug\HighCohesion.exe.config
+C:\Cursos\DesignPatterns\Turma\Lgroup.DesignPatterns\src\Grasp\HighCohesion\bin\Debug\HighCohesion.exe
+C:\Cursos\DesignPatterns\Turma\Lgroup.DesignPatterns\src\Grasp\HighCohesion\bin\Debug\HighCohesion.pdb
+C:\Cursos\DesignPatterns\Turma\Lgroup.DesignPatterns\src\Grasp\HighCohesion\obj\Debug\HighCohesion.exe
+C:\Cursos\DesignPatterns\Turma\Lgroup.DesignPatterns\src\Grasp\HighCohesion\obj\Debug\HighCohesion.pdb

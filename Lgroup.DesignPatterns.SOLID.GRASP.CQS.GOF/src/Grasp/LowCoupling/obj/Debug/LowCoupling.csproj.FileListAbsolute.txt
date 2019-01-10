@@ -1,0 +1,5 @@
+C:\Cursos\DesignPatterns\Turma\Lgroup.DesignPatterns\src\Grasp\LowCoupling\bin\Debug\LowCoupling.exe.config
+C:\Cursos\DesignPatterns\Turma\Lgroup.DesignPatterns\src\Grasp\LowCoupling\bin\Debug\LowCoupling.exe
+C:\Cursos\DesignPatterns\Turma\Lgroup.DesignPatterns\src\Grasp\LowCoupling\bin\Debug\LowCoupling.pdb
+C:\Cursos\DesignPatterns\Turma\Lgroup.DesignPatterns\src\Grasp\LowCoupling\obj\Debug\LowCoupling.exe
+C:\Cursos\DesignPatterns\Turma\Lgroup.DesignPatterns\src\Grasp\LowCoupling\obj\Debug\LowCoupling.pdb

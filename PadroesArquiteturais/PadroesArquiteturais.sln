@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1. Presentation", "1. Presentation", "{6614F00C-BBE3-4C32-9410-86247A2ABD2F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2. Application", "2. Application", "{B5CF68EB-FC2E-4220-8A73-B628DCB26B32}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3. Domains", "3. Domains", "{DD63410A-7B41-4B49-B37A-434DF3E87A1A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4. Infra", "4. Infra", "{BCFEBCB7-9F65-4BE1-957D-56A916627F6D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LGroup.Curso.PadroesArquiteturais", "src\Domains\LGroup.Curso.PadroesArquiteturais\LGroup.Curso.PadroesArquiteturais.csproj", "{94DFFE7E-9A8D-47A8-AFE4-3E258B0D90A8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LGroup.Curso.Infra.Data", "src\Infra\LGroup.Curso.Infra.Data\LGroup.Curso.Infra.Data.csproj", "{B491A7F9-3C40-4996-8FC3-B5D73C8EBE4F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LGroup.Curso.Infra.Ioc", "src\Infra\LGroup.Curso.Infra.Ioc\LGroup.Curso.Infra.Ioc.csproj", "{FE37D25C-2E78-4745-B10A-ED9FF107DBA5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LGroup.Curso.Application", "src\Application\LGroup.Curso.Application\LGroup.Curso.Application.csproj", "{A6021377-BD32-447F-91CE-27482ACD4041}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LGroup.Curso.UI.Mvc", "src\Presentation\LGroup.Curso.UI.Mvc\LGroup.Curso.UI.Mvc.csproj", "{8012D0E2-4709-41DB-937A-DE07C4A8D0BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{94DFFE7E-9A8D-47A8-AFE4-3E258B0D90A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94DFFE7E-9A8D-47A8-AFE4-3E258B0D90A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94DFFE7E-9A8D-47A8-AFE4-3E258B0D90A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94DFFE7E-9A8D-47A8-AFE4-3E258B0D90A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B491A7F9-3C40-4996-8FC3-B5D73C8EBE4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B491A7F9-3C40-4996-8FC3-B5D73C8EBE4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B491A7F9-3C40-4996-8FC3-B5D73C8EBE4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B491A7F9-3C40-4996-8FC3-B5D73C8EBE4F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE37D25C-2E78-4745-B10A-ED9FF107DBA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE37D25C-2E78-4745-B10A-ED9FF107DBA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE37D25C-2E78-4745-B10A-ED9FF107DBA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE37D25C-2E78-4745-B10A-ED9FF107DBA5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6021377-BD32-447F-91CE-27482ACD4041}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6021377-BD32-447F-91CE-27482ACD4041}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6021377-BD32-447F-91CE-27482ACD4041}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6021377-BD32-447F-91CE-27482ACD4041}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8012D0E2-4709-41DB-937A-DE07C4A8D0BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8012D0E2-4709-41DB-937A-DE07C4A8D0BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8012D0E2-4709-41DB-937A-DE07C4A8D0BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8012D0E2-4709-41DB-937A-DE07C4A8D0BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{94DFFE7E-9A8D-47A8-AFE4-3E258B0D90A8} = {DD63410A-7B41-4B49-B37A-434DF3E87A1A}
+		{B491A7F9-3C40-4996-8FC3-B5D73C8EBE4F} = {BCFEBCB7-9F65-4BE1-957D-56A916627F6D}
+		{FE37D25C-2E78-4745-B10A-ED9FF107DBA5} = {BCFEBCB7-9F65-4BE1-957D-56A916627F6D}
+		{A6021377-BD32-447F-91CE-27482ACD4041} = {B5CF68EB-FC2E-4220-8A73-B628DCB26B32}
+		{8012D0E2-4709-41DB-937A-DE07C4A8D0BA} = {6614F00C-BBE3-4C32-9410-86247A2ABD2F}
+	EndGlobalSection
+EndGlobal

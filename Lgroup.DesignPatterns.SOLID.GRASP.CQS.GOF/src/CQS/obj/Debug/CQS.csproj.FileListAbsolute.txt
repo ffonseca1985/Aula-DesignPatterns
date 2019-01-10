@@ -1,0 +1,5 @@
+C:\Cursos\DesignPatterns\Turma\Lgroup.DesignPatterns\src\CQS\bin\Debug\CQS.exe.config
+C:\Cursos\DesignPatterns\Turma\Lgroup.DesignPatterns\src\CQS\bin\Debug\CQS.exe
+C:\Cursos\DesignPatterns\Turma\Lgroup.DesignPatterns\src\CQS\bin\Debug\CQS.pdb
+C:\Cursos\DesignPatterns\Turma\Lgroup.DesignPatterns\src\CQS\obj\Debug\CQS.exe
+C:\Cursos\DesignPatterns\Turma\Lgroup.DesignPatterns\src\CQS\obj\Debug\CQS.pdb

@@ -1,0 +1,5 @@
+C:\Cursos\DesignPatterns\Turma\Lgroup.DesignPatterns\src\Gof\Comportamentais\DomainEvents\bin\Debug\DomainEvents.exe.config
+C:\Cursos\DesignPatterns\Turma\Lgroup.DesignPatterns\src\Gof\Comportamentais\DomainEvents\bin\Debug\DomainEvents.exe
+C:\Cursos\DesignPatterns\Turma\Lgroup.DesignPatterns\src\Gof\Comportamentais\DomainEvents\bin\Debug\DomainEvents.pdb
+C:\Cursos\DesignPatterns\Turma\Lgroup.DesignPatterns\src\Gof\Comportamentais\DomainEvents\obj\Debug\DomainEvents.exe
+C:\Cursos\DesignPatterns\Turma\Lgroup.DesignPatterns\src\Gof\Comportamentais\DomainEvents\obj\Debug\DomainEvents.pdb

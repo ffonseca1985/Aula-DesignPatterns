@@ -1,0 +1,7 @@
+C:\Cursos\DesignPatterns\Turma\PadroesArquiteturais\src\Application\LGroup.Curso.Application\bin\Debug\LGroup.Curso.Application.dll
+C:\Cursos\DesignPatterns\Turma\PadroesArquiteturais\src\Application\LGroup.Curso.Application\bin\Debug\LGroup.Curso.Application.pdb
+C:\Cursos\DesignPatterns\Turma\PadroesArquiteturais\src\Application\LGroup.Curso.Application\bin\Debug\LGroup.Curso.PadroesArquiteturais.dll
+C:\Cursos\DesignPatterns\Turma\PadroesArquiteturais\src\Application\LGroup.Curso.Application\bin\Debug\LGroup.Curso.PadroesArquiteturais.pdb
+C:\Cursos\DesignPatterns\Turma\PadroesArquiteturais\src\Application\LGroup.Curso.Application\obj\Debug\LGroup.Curso.Application.csprojResolveAssemblyReference.cache
+C:\Cursos\DesignPatterns\Turma\PadroesArquiteturais\src\Application\LGroup.Curso.Application\obj\Debug\LGroup.Curso.Application.dll
+C:\Cursos\DesignPatterns\Turma\PadroesArquiteturais\src\Application\LGroup.Curso.Application\obj\Debug\LGroup.Curso.Application.pdb

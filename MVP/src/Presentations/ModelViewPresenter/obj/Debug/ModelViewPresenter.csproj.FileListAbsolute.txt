@@ -1,0 +1,5 @@
+C:\Cursos\DesignPatterns\Turma\Lgroup.DesignPatterns-aula-4.0\MVP\src\Presentations\ModelViewPresenter\bin\Debug\ModelViewPresenter.dll
+C:\Cursos\DesignPatterns\Turma\Lgroup.DesignPatterns-aula-4.0\MVP\src\Presentations\ModelViewPresenter\bin\Debug\ModelViewPresenter.pdb
+C:\Cursos\DesignPatterns\Turma\Lgroup.DesignPatterns-aula-4.0\MVP\src\Presentations\ModelViewPresenter\obj\Debug\ModelViewPresenter.csprojResolveAssemblyReference.cache
+C:\Cursos\DesignPatterns\Turma\Lgroup.DesignPatterns-aula-4.0\MVP\src\Presentations\ModelViewPresenter\obj\Debug\ModelViewPresenter.dll
+C:\Cursos\DesignPatterns\Turma\Lgroup.DesignPatterns-aula-4.0\MVP\src\Presentations\ModelViewPresenter\obj\Debug\ModelViewPresenter.pdb

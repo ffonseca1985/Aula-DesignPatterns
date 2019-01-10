@@ -1,0 +1,14 @@
+C:\Cursos\DesignPatterns\Turma\Lgroup.DesignPatterns-aula-4.0\MVVM\src\Presentations\WPF\bin\Debug\WPF.exe.config
+C:\Cursos\DesignPatterns\Turma\Lgroup.DesignPatterns-aula-4.0\MVVM\src\Presentations\WPF\bin\Debug\WPF.exe
+C:\Cursos\DesignPatterns\Turma\Lgroup.DesignPatterns-aula-4.0\MVVM\src\Presentations\WPF\bin\Debug\WPF.pdb
+C:\Cursos\DesignPatterns\Turma\Lgroup.DesignPatterns-aula-4.0\MVVM\src\Presentations\WPF\obj\Debug\WPF.csprojResolveAssemblyReference.cache
+C:\Cursos\DesignPatterns\Turma\Lgroup.DesignPatterns-aula-4.0\MVVM\src\Presentations\WPF\obj\Debug\MainWindow.g.cs
+C:\Cursos\DesignPatterns\Turma\Lgroup.DesignPatterns-aula-4.0\MVVM\src\Presentations\WPF\obj\Debug\App.g.cs
+C:\Cursos\DesignPatterns\Turma\Lgroup.DesignPatterns-aula-4.0\MVVM\src\Presentations\WPF\obj\Debug\WPF_MarkupCompile.cache
+C:\Cursos\DesignPatterns\Turma\Lgroup.DesignPatterns-aula-4.0\MVVM\src\Presentations\WPF\obj\Debug\WPF_MarkupCompile.lref
+C:\Cursos\DesignPatterns\Turma\Lgroup.DesignPatterns-aula-4.0\MVVM\src\Presentations\WPF\obj\Debug\MainWindow.baml
+C:\Cursos\DesignPatterns\Turma\Lgroup.DesignPatterns-aula-4.0\MVVM\src\Presentations\WPF\obj\Debug\WPF.g.resources
+C:\Cursos\DesignPatterns\Turma\Lgroup.DesignPatterns-aula-4.0\MVVM\src\Presentations\WPF\obj\Debug\WPF.Properties.Resources.resources
+C:\Cursos\DesignPatterns\Turma\Lgroup.DesignPatterns-aula-4.0\MVVM\src\Presentations\WPF\obj\Debug\WPF.csproj.GenerateResource.Cache
+C:\Cursos\DesignPatterns\Turma\Lgroup.DesignPatterns-aula-4.0\MVVM\src\Presentations\WPF\obj\Debug\WPF.exe
+C:\Cursos\DesignPatterns\Turma\Lgroup.DesignPatterns-aula-4.0\MVVM\src\Presentations\WPF\obj\Debug\WPF.pdb

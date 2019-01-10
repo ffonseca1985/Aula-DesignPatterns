@@ -1,0 +1,5 @@
+C:\Cursos\DesignPatterns\Turma\Lgroup.DesignPatterns\DIP\bin\Debug\DIP.exe.config
+C:\Cursos\DesignPatterns\Turma\Lgroup.DesignPatterns\DIP\bin\Debug\DIP.exe
+C:\Cursos\DesignPatterns\Turma\Lgroup.DesignPatterns\DIP\bin\Debug\DIP.pdb
+C:\Cursos\DesignPatterns\Turma\Lgroup.DesignPatterns\DIP\obj\Debug\DIP.exe
+C:\Cursos\DesignPatterns\Turma\Lgroup.DesignPatterns\DIP\obj\Debug\DIP.pdb

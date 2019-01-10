@@ -1,0 +1,5 @@
+C:\Cursos\DesignPatterns\Turma\Lgroup.DesignPatterns\src\Gof\Estruturais\Bridge\bin\Debug\Bridge.exe.config
+C:\Cursos\DesignPatterns\Turma\Lgroup.DesignPatterns\src\Gof\Estruturais\Bridge\bin\Debug\Bridge.exe
+C:\Cursos\DesignPatterns\Turma\Lgroup.DesignPatterns\src\Gof\Estruturais\Bridge\bin\Debug\Bridge.pdb
+C:\Cursos\DesignPatterns\Turma\Lgroup.DesignPatterns\src\Gof\Estruturais\Bridge\obj\Debug\Bridge.exe
+C:\Cursos\DesignPatterns\Turma\Lgroup.DesignPatterns\src\Gof\Estruturais\Bridge\obj\Debug\Bridge.pdb

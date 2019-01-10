@@ -1,0 +1,6 @@
+C:\Cursos\DesignPatterns\Turma\Lgroup.DesignPatterns.SOLID.GRASP.CQS.GOF\ExemploGeral\bin\Debug\ExemploGeral.exe.config
+C:\Cursos\DesignPatterns\Turma\Lgroup.DesignPatterns.SOLID.GRASP.CQS.GOF\ExemploGeral\bin\Debug\ExemploGeral.exe
+C:\Cursos\DesignPatterns\Turma\Lgroup.DesignPatterns.SOLID.GRASP.CQS.GOF\ExemploGeral\bin\Debug\ExemploGeral.pdb
+C:\Cursos\DesignPatterns\Turma\Lgroup.DesignPatterns.SOLID.GRASP.CQS.GOF\ExemploGeral\obj\Debug\ExemploGeral.csprojResolveAssemblyReference.cache
+C:\Cursos\DesignPatterns\Turma\Lgroup.DesignPatterns.SOLID.GRASP.CQS.GOF\ExemploGeral\obj\Debug\ExemploGeral.exe
+C:\Cursos\DesignPatterns\Turma\Lgroup.DesignPatterns.SOLID.GRASP.CQS.GOF\ExemploGeral\obj\Debug\ExemploGeral.pdb

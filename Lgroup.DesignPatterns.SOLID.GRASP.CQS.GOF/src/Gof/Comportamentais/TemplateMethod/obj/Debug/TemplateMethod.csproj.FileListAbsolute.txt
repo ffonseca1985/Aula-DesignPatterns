@@ -1,0 +1,5 @@
+C:\Cursos\DesignPatterns\Turma\Lgroup.DesignPatterns\src\Gof\Comportamentais\TemplateMethod\bin\Debug\TemplateMethod.exe.config
+C:\Cursos\DesignPatterns\Turma\Lgroup.DesignPatterns\src\Gof\Comportamentais\TemplateMethod\bin\Debug\TemplateMethod.exe
+C:\Cursos\DesignPatterns\Turma\Lgroup.DesignPatterns\src\Gof\Comportamentais\TemplateMethod\bin\Debug\TemplateMethod.pdb
+C:\Cursos\DesignPatterns\Turma\Lgroup.DesignPatterns\src\Gof\Comportamentais\TemplateMethod\obj\Debug\TemplateMethod.exe
+C:\Cursos\DesignPatterns\Turma\Lgroup.DesignPatterns\src\Gof\Comportamentais\TemplateMethod\obj\Debug\TemplateMethod.pdb

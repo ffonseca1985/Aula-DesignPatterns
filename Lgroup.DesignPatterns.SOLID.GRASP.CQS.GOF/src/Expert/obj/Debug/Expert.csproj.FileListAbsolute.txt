@@ -1,0 +1,6 @@
+C:\Cursos\DesignPatterns\Turma\Lgroup.DesignPatterns\src\Expert\bin\Debug\Expert.exe.config
+C:\Cursos\DesignPatterns\Turma\Lgroup.DesignPatterns\src\Expert\bin\Debug\Expert.exe
+C:\Cursos\DesignPatterns\Turma\Lgroup.DesignPatterns\src\Expert\bin\Debug\Expert.pdb
+C:\Cursos\DesignPatterns\Turma\Lgroup.DesignPatterns\src\Expert\obj\Debug\Expert.exe
+C:\Cursos\DesignPatterns\Turma\Lgroup.DesignPatterns\src\Expert\obj\Debug\Expert.pdb
+C:\Cursos\DesignPatterns\Turma\Lgroup.DesignPatterns\src\Expert\obj\Debug\Expert.csprojResolveAssemblyReference.cache

@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebForms", "WebForms\WebForms.csproj", "{98839734-F582-4015-8162-5A36273651EE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModelViewPresenter", "src\Presentations\ModelViewPresenter\ModelViewPresenter.csproj", "{26704301-B1B2-43B4-96C9-D66560CE80E4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsForms", "WindowsForms\WindowsForms.csproj", "{E8DDF2DD-2EAD-465C-BBFC-6DAE1A9628E4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{98839734-F582-4015-8162-5A36273651EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98839734-F582-4015-8162-5A36273651EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98839734-F582-4015-8162-5A36273651EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98839734-F582-4015-8162-5A36273651EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{26704301-B1B2-43B4-96C9-D66560CE80E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26704301-B1B2-43B4-96C9-D66560CE80E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26704301-B1B2-43B4-96C9-D66560CE80E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26704301-B1B2-43B4-96C9-D66560CE80E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E8DDF2DD-2EAD-465C-BBFC-6DAE1A9628E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8DDF2DD-2EAD-465C-BBFC-6DAE1A9628E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8DDF2DD-2EAD-465C-BBFC-6DAE1A9628E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8DDF2DD-2EAD-465C-BBFC-6DAE1A9628E4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

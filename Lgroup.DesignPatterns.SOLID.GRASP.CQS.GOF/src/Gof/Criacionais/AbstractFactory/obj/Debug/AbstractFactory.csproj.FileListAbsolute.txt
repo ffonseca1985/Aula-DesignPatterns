@@ -1,0 +1,5 @@
+C:\Cursos\DesignPatterns\Turma\Lgroup.DesignPatterns\src\Gof\Criacionais\AbstractFactory\bin\Debug\AbstractFactory.exe.config
+C:\Cursos\DesignPatterns\Turma\Lgroup.DesignPatterns\src\Gof\Criacionais\AbstractFactory\bin\Debug\AbstractFactory.exe
+C:\Cursos\DesignPatterns\Turma\Lgroup.DesignPatterns\src\Gof\Criacionais\AbstractFactory\bin\Debug\AbstractFactory.pdb
+C:\Cursos\DesignPatterns\Turma\Lgroup.DesignPatterns\src\Gof\Criacionais\AbstractFactory\obj\Debug\AbstractFactory.exe
+C:\Cursos\DesignPatterns\Turma\Lgroup.DesignPatterns\src\Gof\Criacionais\AbstractFactory\obj\Debug\AbstractFactory.pdb
